@@ -13,3 +13,4 @@ By: Kyler Conant
   - pip install openai
   - pip install pillow
   - pip install requests
+  - pip install gradio
