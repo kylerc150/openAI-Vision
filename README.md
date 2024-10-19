@@ -2,7 +2,7 @@
 
 By: Kyler Conant
 
-### This GitHub contains comments, code, screenshot of results, and pictures used for this program.
+### This GitHub contains comments, code, screenshots of results, and pictures used for this program.
 -----------------------------------------------------------------------------------
 ***Documents you might need:***
   - Docs for OpenAI API: https://platform.openai.com/docs/overview
