@@ -1,4 +1,4 @@
-### This is my first project working with OpenAI API
+# This is my first project working with OpenAI API
 
-# This Github contains comments, code, screeshot of result, and picture used for this program.
-# 
+### This GitHub contains comments, code, screenshot of results, and pictures used for this program.
+### 
